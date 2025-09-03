@@ -1,0 +1,13 @@
+abc
+ab
+aaabbbbccc
+abbbb
+aaaaa
+acb
+ca
+d
+3
+aaaccc
+
+ac
+" "
