@@ -1,0 +1,15 @@
+Q = q0,q1,q2,q3
+Sigma = LETRA,DIGITO,OTRO
+q0 = q0
+F = q1
+# Matriz de transiciones: estado, símbolo → destino
+delta = 
+q0,LETRA = q1
+q0,DIGITO = q2
+q0,OTRO = q2
+q1,LETRA = q1
+q1,DIGITO = q1
+q1,OTRO = q2
+q2,LETRA = q2
+q2,DIGITO = q2
+q2,OTRO = q2
